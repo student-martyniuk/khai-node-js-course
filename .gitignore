@@ -53,6 +53,9 @@ web_modules/
 # Optional eslint cache
 .eslintcache
 
+# I just dont want to include eslintrc here
+.eslintrc.json
+
 # Optional stylelint cache
 .stylelintcache
 
